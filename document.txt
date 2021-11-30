@@ -1,0 +1,3 @@
+db_name :relaehqq_relax_shop
+user_name:relaehqq_relax_shop
+db_pw	:relaehqq_relax_shop	
